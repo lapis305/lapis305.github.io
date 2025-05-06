@@ -1,1 +1,62 @@
-
+[
+  {
+    "id": 1,
+    "anime": "Lion King 2",
+    "name": "He Lives in You",
+    "video": "https://www.youtube.com/watch?v=zPdSZRMrnA0"
+  },
+  {
+    "id": 2,
+    "anime": "Tarzan",
+    "name": "Son of Man",
+    "video": "https://www.youtube.com/watch?v=-WcHPFUwd6U"
+  },
+  {
+    "id": 3,
+    "anime": "Cars",
+    "name": "Life Is a Highway",
+    "video": "https://www.youtube.com/watch?v=5tXh_MfrMe0"
+  },
+  {
+    "id": 4,
+    "anime": "Big Hero 6",
+    "name": "Immortals",
+    "video": "https://www.youtube.com/watch?v=l9PxOanFjxQ"
+  },
+  {
+    "id": 5,
+    "anime": "Lava",
+    "name": "Lava",
+    "video": "https://www.youtube.com/watch?v=uh4dTLJ9q9o"
+  },
+  {
+    "id": 6,
+    "anime": "Zootopia",
+    "name": "Try Everything",
+    "video": "https://www.youtube.com/watch?v=c6rP-YP4c5I"
+  },
+  {
+    "id": 7,
+    "anime": "The Lion King",
+    "name": "Can You Fell the Love Tonight",
+    "video": "https://www.youtube.com/watch?v=25QyCxVkXwQ"
+  },
+  {
+    "id": 8,
+    "anime": "Beauty and the Beast",
+    "name": "Beauty and the Beast",
+    "video": "https://www.youtube.com/watch?v=8ndOc460A_8"
+  },
+  {
+    "id": 9,
+    "anime": "Mulan",
+    "name": "I'll Make a Man Out of You",
+    "video": "https://www.youtube.com/watch?v=j9MfuWSQoWc"
+  },
+  {
+    "id": 10,
+    "anime": "The Jungle Book",
+    "name": "The Bare Necessities",
+    "video": "https://www.youtube.com/watch?v=6BH-Rxd-Nbo"
+  }
+]
