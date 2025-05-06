@@ -1,142 +1,62 @@
 [
-    {
-        "id": 1,
-        "anime": "Lion king 2",
-        "name": "He Lives in You",
-        "video": "https://www.youtube.com/watch?v=zPdSZRMrnA0",
-        "mp3": null
-    },
-    {
-        "id": 2,
-        "anime": "Tarzan",
-        "name": "Son of Man",
-        "video": "https://www.youtube.com/watch?v=-WcHPFUwd6U",
-        "mp3": null
-    },
-    {
-        "id": 3,
-        "anime": "Cars",
-        "name": "Life Is a Highway",
-        "video": "https://www.youtube.com/watch?v=5tXh_MfrMe0",
-        "mp3": null
-    },
-    {
-        "id": 4,
-        "anime": "Big Hero 6",
-        "name": "Immortals",
-        "video": "https://www.youtube.com/watch?v=l9PxOanFjxQ",
-        "mp3": null
-    },
-    {
-        "id": 5,
-        "anime": "Lava",
-        "name": "Lava",
-        "video": "https://www.youtube.com/watch?v=uh4dTLJ9q9o",
-        "mp3": null
-    },
-    {
-        "id": 6,
-        "anime": "Zootopia",
-        "name": "Try Everything",
-        "video": "https://www.youtube.com/watch?v=c6rP-YP4c5I",
-        "mp3": null
-    },
-    {
-        "id": 7,
-        "anime": "The Lion King",
-        "name": "Can You Feel the Love Tonight",
-        "video": "https://www.youtube.com/watch?v=25QyCxVkXwQ",
-        "mp3": null
-    },
-    {
-        "id": 8,
-        "anime": "Beauty And The Beast",
-        "name": "Beauty and the Beast",
-        "video": "https://www.youtube.com/watch?v=8ndOc460A_8",
-        "mp3": null
-    },
-    {
-        "id": 9,
-        "anime": "Mulan",
-        "name": "I'll Make a Man Out of You",
-        "video": "https://www.youtube.com/watch?v=j9MfuWSQoWc",
-        "mp3": null
-    },
-    {
-        "id": 10,
-        "anime": "The Jungle Book",
-        "name": "The Bare Necessities",
-        "video": "https://www.youtube.com/watch?v=6BH-Rxd-Nbo",
-        "mp3": null
-    },
-    {
-        "ID": 11,
-        "Anime": "Snow White and the Seven Dwarfs",
-        "Name": "Heigh Ho",
-        "Video": "https://www.youtube.com/watch?v=HI0x0KYChq4",
-        "Mp3": null
-    },
-    {
-        "ID": 12,
-        "Anime": "Dumbo",
-        "Name": "Pink Elephants on Parade",
-        "Video": "https://www.youtube.com/watch?v=jcZUPDMXzJ8",
-        "Mp3": null
-    },
-    {
-        "ID": 13,
-        "Anime": "Lilo and Sitch",
-        "Name": "Hawaiian Roller Coaster Ride",
-        "Video": "https://www.youtube.com/watch?v=nXpB1rixnPQ",
-        "Mp3": null
-    },
-    {
-        "ID": 14,
-        "Anime": "Beauty and the Beast",
-        "Name": "Belle",
-        "Video": "https://www.youtube.com/watch?v=jdVnGAWJebA",
-        "Mp3": null
-    },
-    {
-        "ID": 15,
-        "Anime": "Pinocchio",
-        "Name": "When You Wish Upon a Star",
-        "Video": "https://www.youtube.com/watch?v=pguMUFyJ3_U",
-        "Mp3": null
-    },
-    {
-        "ID": 16,
-        "Anime": "The Little Mermaid",
-        "Name": "Under the Sea",
-        "Video": "https://www.youtube.com/watch?v=GC_mV1IpjWA",
-        "Mp3": null
-    },
-    {
-        "ID": 17,
-        "Anime": "Hercules",
-        "Name": "I Won't Say (I'm In Love)",
-        "Video": "https://www.youtube.com/watch?v=CGoOnJ2TlJk",
-        "Mp3": null
-    },
-    {
-        "ID": 18,
-        "Anime": "The Lion King",
-        "Name": "Circle of Life",
-        "Video": "https://www.youtube.com/watch?v=GibiNy4d4gc",
-        "Mp3": null
-    },
-    {
-        "ID": 19,
-        "Anime": "Aladin",
-        "Name": "Arabian Nights",
-        "Video": "https://www.youtube.com/watch?v=lIYL-PQa010",
-        "Mp3": null
-    },
-    {
-        "ID": 20,
-        "Anime": "Cars",
-        "Name": "Route 66",
-        "Video": "https://www.youtube.com/watch?v=IuHETT_j6h4",
-        "Mp3": null
-    }
+  {
+    "id": 1,
+    "anime": "Lion King 2",
+    "name": "He Lives in You",
+    "video": "https://www.youtube.com/watch?v=zPdSZRMrnA0"
+  },
+  {
+    "id": 2,
+    "anime": "Tarzan",
+    "name": "Son of Man",
+    "video": "https://www.youtube.com/watch?v=-WcHPFUwd6U"
+  },
+  {
+    "id": 3,
+    "anime": "Cars",
+    "name": "Life Is a Highway",
+    "video": "https://www.youtube.com/watch?v=5tXh_MfrMe0"
+  },
+  {
+    "id": 4,
+    "anime": "Big Hero 6",
+    "name": "Immortals",
+    "video": "https://www.youtube.com/watch?v=l9PxOanFjxQ"
+  },
+  {
+    "id": 5,
+    "anime": "Lava",
+    "name": "Lava",
+    "video": "https://www.youtube.com/watch?v=uh4dTLJ9q9o"
+  },
+  {
+    "id": 6,
+    "anime": "Zootopia",
+    "name": "Try Everything",
+    "video": "https://www.youtube.com/watch?v=c6rP-YP4c5I"
+  },
+  {
+    "id": 7,
+    "anime": "The Lion King",
+    "name": "Can You Fell the Love Tonight",
+    "video": "https://www.youtube.com/watch?v=25QyCxVkXwQ"
+  },
+  {
+    "id": 8,
+    "anime": "Beauty and the Beast",
+    "name": "Beauty and the Beast",
+    "video": "https://www.youtube.com/watch?v=8ndOc460A_8"
+  },
+  {
+    "id": 9,
+    "anime": "Mulan",
+    "name": "I'll Make a Man Out of You",
+    "video": "https://www.youtube.com/watch?v=j9MfuWSQoWc"
+  },
+  {
+    "id": 10,
+    "anime": "The Jungle Book",
+    "name": "The Bare Necessities",
+    "video": "https://www.youtube.com/watch?v=6BH-Rxd-Nbo"
+  }
 ]
