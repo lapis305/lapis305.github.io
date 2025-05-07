@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "anime": "Lion King 2",
+    "name": "He Lives in You",
+    "video": "https://www.youtube.com/watch?v=zPdSZRMrnA0"
+  },
+  {
+    "id": 2,
+    "anime": "Tarzan",
+    "name": "Son of Man",
+    "video": "https://www.youtube.com/watch?v=-WcHPFUwd6U"
+  },
+  {
+    "id": 3,
+    "anime": "Cars",
+    "name": "Life Is a Highway",
+    "video": "https://www.youtube.com/watch?v=5tXh_MfrMe0"
+  },
+  {
+    "id": 4,
+    "anime": "Big Hero 6",
+    "name": "Immortals",
+    "video": "https://www.youtube.com/watch?v=l9PxOanFjxQ"
+  },
+  {
+    "id": 5,
+    "anime": "Lava",
+    "name": "Lava",
+    "video": "https://www.youtube.com/watch?v=uh4dTLJ9q9o"
+  },
+  {
+    "id": 6,
+    "anime": "Zootopia",
+    "name": "Try Everything",
+    "video": "https://www.youtube.com/watch?v=c6rP-YP4c5I"
+  },
+  {
+    "id": 7,
+    "anime": "The Lion King",
+    "name": "Can You Fell the Love Tonight",
+    "video": "https://www.youtube.com/watch?v=25QyCxVkXwQ"
+  },
+  {
+    "id": 8,
+    "anime": "Beauty and the Beast",
+    "name": "Beauty and the Beast",
+    "video": "https://www.youtube.com/watch?v=8ndOc460A_8"
+  },
+  {
+    "id": 9,
+    "anime": "Mulan",
+    "name": "I'll Make a Man Out of You",
+    "video": "https://www.youtube.com/watch?v=j9MfuWSQoWc"
+  },
+  {
+    "id": 10,
+    "anime": "The Jungle Book",
+    "name": "The Bare Necessities",
+    "video": "https://www.youtube.com/watch?v=6BH-Rxd-Nbo"
+  },
+  {
+    "id": 11,
+    "anime": "Snow White and the Seven Dwarfs",
+    "name": "Heigh Ho",
+    "video": "https://www.youtube.com/watch?v=HI0x0KYChq4"
+  },
+  {
+    "id": 12,
+    "anime": "Dumbo",
+    "name": "Pink Elephants on Parade",
+    "video": "https://www.youtube.com/watch?v=jcZUPDMXzJ8"
+  },
+  {
+    "id": 13,
+    "anime": "Lilo and Sitch",
+    "name": "Hawaiian Roller Coaster Ride",
+    "video": "https://www.youtube.com/watch?v=nXpB1rixnPQ"
+  },
+  {
+    "id": 14,
+    "anime": "Beauty and the Beast",
+    "name": "Belle",
+    "video": "https://www.youtube.com/watch?v=jdVnGAWJebA"
+  },
+  {
+    "id": 15,
+    "anime": "Pinocchio",
+    "name": "When You Wish Upon a Star",
+    "video": "https://www.youtube.com/watch?v=pguMUFyJ3_U"
+  },
+  {
+    "id": 16,
+    "anime": "The Little Mermaid",
+    "name": "Under the Sea",
+    "video": "https://www.youtube.com/watch?v=GC_mV1IpjWA"
+  },
+  {
+    "id": 17,
+    "anime": "Hercules",
+    "name": "I Won't Say (I'm In Love)",
+    "video": "https://www.youtube.com/watch?v=CGoOnJ2TlJk"
+  },
+  {
+    "id": 18,
+    "anime": "The Lion King",
+    "name": "Circle of Life",
+    "video": "https://www.youtube.com/watch?v=GibiNy4d4gc"
+  },
+  {
+    "id": 19,
+    "anime": "Aladin",
+    "name": "Arabian Nights",
+    "video": "https://www.youtube.com/watch?v=lIYL-PQa010"
+  },
+  {
+    "id": 20,
+    "anime": "Cars",
+    "name": "Route 66",
+    "video": "https://www.youtube.com/watch?v=IuHETT_j6h4"
+  }
+]

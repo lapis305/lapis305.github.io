@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nousagis Song PR</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles */
+        body {
+            font-family: 'Inter', sans-serif; /* Default Tailwind font */
+            /* Background image settings */
+            background-image: url('https://static.zerochan.net/Hololive.1024.3381592.webp'); /* Replace with your image URL */
+            background-size: cover; /* Cover the entire page */
+            background-position: center; /* Center the background image */
+            background-repeat: no-repeat; /* Do not repeat the image */
+            background-attachment: fixed; /* Optional: Makes the background fixed during scroll */
+        }
+
+        /* Add a semi-transparent overlay to make text more readable if needed */
+        /*
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.3); // Adjust opacity (0.0 to 1.0)
+            z-index: -1; // Place it behind the content
+        }
+        */
+
+        /* Ensure content is above the pseudo-element if you use it */
+        .content-container {
+            position: relative;
+            z-index: 1;
+        }
+    </style>
+</head>
+<body class="flex flex-col items-center justify-center min-h-screen p-6">
+
+    <div class="content-container bg-white/80 backdrop-blur-sm p-8 rounded-lg shadow-xl w-full max-w-md text-center">
+        <h1 class="text-3xl font-bold text-gray-800 mb-8">Nousagis Song PR</h1>
+
+        <p class="text-gray-700 mb-6">
+            Choose which PR to rank below
+        </p>
+
+        <a href="disneyPR/main.html"
+           class="block w-full bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 px-6 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:-translate-y-1 mb-4 text-center">
+            Disney
+        </a>
+
+        <a href="anisong2001PR/main.html"
+           class="block w-full bg-green-500 hover:bg-green-600 text-white font-semibold py-3 px-6 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:-translate-y-1 text-center">
+            2001 Anisong
+        </a>
+    </div>
+
+</body>
+</html>
