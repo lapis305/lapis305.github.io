@@ -82,5 +82,17 @@
     "anime": "This life",
     "name": "Vampire Weekend",
     "video": "https://www.youtube.com/watch?v=KIGNNOZ0948"
+  },
+  {
+    "id": 15,
+    "anime": "Die Hard",
+    "name": "Kendrick Lamar ft. Blxst & Amanda Reifer",
+    "video": "https://www.youtube.com/watch?v=Lx3MGrafykU"
+  },
+  {
+    "id": 16,
+    "anime": "Fire In The Sky",
+    "name": "Anderson Paak",
+    "video": "https://www.youtube.com/watch?v=3pZfOHl5F-Y"
   }
 ]
