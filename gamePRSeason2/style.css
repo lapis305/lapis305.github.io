@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-image: url("https://pbs.twimg.com/media/GsKRE3VaUAEEmnv?format=jpg&name=4096x4096");
+  background-image: url("https://images2.alphacoders.com/127/thumb-1920-1277561.jpg");
   background-color: #f4f4f9;
   background-size: cover;
   background-repeat: no-repeat;
@@ -98,8 +98,8 @@ body {
   max-width: 70%;
   font-size: 3vh;
   max-lines: 2;
-  padding: 20px;
-  color: #787B8C;
+  padding: 40px;
+  color: #584B43;
   align-content: center;
   margin: 0 auto;
   text-align: center;
